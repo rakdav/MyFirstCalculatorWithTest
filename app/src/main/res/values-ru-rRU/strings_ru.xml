@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="lbFirst">Введите первую переменную</string>
+    <string name="lbSecond">Введите вторую переменную</string>
+    <string name="nothing">Нет</string>
+    <string name="url">Url</string>
+    <string name="file">Файл</string>
+</resources>
